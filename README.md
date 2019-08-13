@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # food_drug
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# TN_front
+途牛后台
+>>>>>>> ace8fde1800af2f3f3d3fcf8bbfafc1ce5708a7a
